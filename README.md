@@ -1,5 +1,7 @@
 # React + Vite
 
+Bare bones Quiz App with options to add MCQs and selecting their correct option. UI needs to updated but other than it works fine. 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
